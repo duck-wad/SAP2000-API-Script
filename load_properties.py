@@ -12,3 +12,5 @@ def load_model_data():
     materials = load_materials()
     sections = load_sections()
     return materials, sections
+
+print("Hello")
